@@ -1,1 +1,1 @@
-# All my python projects lie in this repository
+# All my python projects are in this repository
